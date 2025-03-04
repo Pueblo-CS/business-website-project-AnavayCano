@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://picsum.photos/id/8/900/900") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
